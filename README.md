@@ -4,12 +4,12 @@
 # Integrantes del Grupo:
 
 *Viviana Real
- Santiago Masmela
- Jhon Velasco
- Mauricio Montero
- William Moreno
- Cristian Ruiz
- Brayan Diaz
+*Santiago Masmela
+*Jhon Velasco
+*Mauricio Montero
+*William Moreno
+*Cristian Ruiz
+*Brayan Diaz
  
  
  
